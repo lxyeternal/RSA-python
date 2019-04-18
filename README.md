@@ -36,10 +36,10 @@ e = 10001
 
 ## 实验截图
 
-<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
-<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
-<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
-<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
-<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+<img src="https://github.com/wenboi/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
+<img src="https://github.com/wenboi/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
+<img src="https://github.com/wenboi/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
+<img src="https://github.com/wenboi/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
+<img src="https://github.com/wenboi/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
 
 
