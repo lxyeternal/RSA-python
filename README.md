@@ -34,4 +34,12 @@ e = 10001
 
 实验完成时间为两个星期，实验完成之后将所有文件压缩成一个ZIP包，发送至课程中心
 
+## 实验截图
+
+<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+<img width="260" height="450" src="https://github.com/wenboi/RSA-python/raw/master/2.png"/>
+
 
