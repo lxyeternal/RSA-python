@@ -38,11 +38,10 @@ e = 10001
 实验完成时间为两个星期，实验完成之后将所有文件压缩成一个ZIP包，发送至课程中心
 
 ## 实验截图
-
-<img src="https://github.com/lxyeternal/RSA-python/raw/master/屏幕快照 2018-06-03 19.50.12.png"/>
-<img src="https://github.com/lxyeternal/RSA-python/raw/master/屏幕快照 2018-06-04 22.52.33.png"/>
-<img src="https://github.com/lxyeternal/RSA-python/raw/master/屏幕快照 2018-06-03 22.18.25 2.png"/>
-<img src="https://github.com/lxyeternal/RSA-python/raw/master/屏幕快照 2018-06-04 18.58.28.png"/>
-<img src="https://github.com/lxyeternal/RSA-python/raw/master/屏幕快照 2018-06-04 15.40.01.png"/>
+<img src="https://github.com/lxyeternal/RSA-python/blob/master/屏幕快照 2018-06-03 19.50.12.png"/>
+<img src="https://github.com/lxyeternal/RSA-python/blob/master/屏幕快照 2018-06-04 22.52.33.png"/>
+<img src="https://github.com/lxyeternal/RSA-python/blob/master/屏幕快照 2018-06-03 22.18.25 2.png"/>
+<img src="https://github.com/lxyeternal/RSA-python/blob/master/屏幕快照 2018-06-04 18.58.28.png"/>
+<img src="https://github.com/lxyeternal/RSA-python/blob/master/屏幕快照 2018-06-04 15.40.01.png"/>
 
 
